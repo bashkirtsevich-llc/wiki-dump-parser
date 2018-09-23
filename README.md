@@ -1,3 +1,4 @@
 # Wikipedia bz2 dump parser
 
-Just open the [wiki-parser.ipynb](wiki-parser.ipynb) file.
+* Wikipedia dumps basic parser: [wiki-parser](wiki-parser.ipynb).
+* Wiktionary nouns parser: [wiktionary-parser](wiktionary-parser.ipynb)
